@@ -1,0 +1,13 @@
+C:\Code\Threads\HelloThread\HelloThreads\bin\Debug\netcoreapp3.1\HelloThreads.exe
+C:\Code\Threads\HelloThread\HelloThreads\bin\Debug\netcoreapp3.1\HelloThreads.deps.json
+C:\Code\Threads\HelloThread\HelloThreads\bin\Debug\netcoreapp3.1\HelloThreads.runtimeconfig.json
+C:\Code\Threads\HelloThread\HelloThreads\bin\Debug\netcoreapp3.1\HelloThreads.runtimeconfig.dev.json
+C:\Code\Threads\HelloThread\HelloThreads\bin\Debug\netcoreapp3.1\HelloThreads.dll
+C:\Code\Threads\HelloThread\HelloThreads\bin\Debug\netcoreapp3.1\HelloThreads.pdb
+C:\Code\Threads\HelloThread\HelloThreads\obj\Debug\netcoreapp3.1\HelloThreads.csprojAssemblyReference.cache
+C:\Code\Threads\HelloThread\HelloThreads\obj\Debug\netcoreapp3.1\HelloThreads.AssemblyInfoInputs.cache
+C:\Code\Threads\HelloThread\HelloThreads\obj\Debug\netcoreapp3.1\HelloThreads.AssemblyInfo.cs
+C:\Code\Threads\HelloThread\HelloThreads\obj\Debug\netcoreapp3.1\HelloThreads.csproj.CoreCompileInputs.cache
+C:\Code\Threads\HelloThread\HelloThreads\obj\Debug\netcoreapp3.1\HelloThreads.dll
+C:\Code\Threads\HelloThread\HelloThreads\obj\Debug\netcoreapp3.1\HelloThreads.pdb
+C:\Code\Threads\HelloThread\HelloThreads\obj\Debug\netcoreapp3.1\HelloThreads.genruntimeconfig.cache
